@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='174.138.183.243';
-db_user='abolirez_rdev';
-db_pass='abolirez_rdev';
-db_name='abolirez_rdev';
+db_host='174.138.187.20';
+db_user='yoyovipv_eftunne';
+db_pass='yoyovipv_eftunne';
+db_name='yoyovipv_eftunne';
 
 install_require()
 {
