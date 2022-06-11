@@ -5,11 +5,11 @@
 
 NAMEVPN="NishatSoft
 ";
-WEBSCRIPT="nishat.yoyovipvpn.com";
-DBHOST="174.138.183.243";
-DBNAME="abolirez_rdev";
-DBUSER="abolirez_rdev";
-DBPASS="abolirez_rdev";
+WEBSCRIPT="ef-tunnel.site";
+DBHOST="174.138.187.20";
+DBNAME="yoyovipv_eftunne";
+DBUSER="yoyovipv_eftunne";
+DBPASS="yoyovipv_eftunne";
 APISYNCLOGIN="authentication";
 APISYNC="firenetdev";
 SERVERZ=$(curl -4s http://ipinfo.io/org);
